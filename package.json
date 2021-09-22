@@ -1,6 +1,6 @@
 {
   "name": "@arshaw/yall",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Run several npm scripts in parallel or in sequence forwarding the options in a yarn-friendly manner",
   "bin": {
     "yall": "bin/yall.js"
