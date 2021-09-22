@@ -4,10 +4,18 @@
 
 Run several npm scripts in parallel or in sequence forwarding the options in a [yarn](https://yarnpkg.com/)-friendly manner, using the `yall` CLI tool.
 
+## Fork Info
+
+The following functionality has been added by @arshaw:
+
+- [Workspaces options](https://github.com/dubbha/yall-scripts/pull/5)
+- [Shared tasks](https://github.com/dubbha/yall-scripts/pull/4)
+
+
 ## Installation
 
 ```
-$ yarn add yall-scripts --dev
+$ yarn add @arshaw/yall --dev
 ```
 
 ## Usage
